@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--XLinQ contacts XML Example-->
+<contacts>
+  <contact>
+    <name>Pradeep</name>
+    <phoneNo>123456</phoneNo>
+    <address>
+      <street1>Vimannagar</street1>
+      <city>pune</city>
+      <state>Maharashtra</state>
+      <PinCode>411014</PinCode>
+    </address>
+  </contact>
+</contacts>
